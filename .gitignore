@@ -1,0 +1,8 @@
+###> symfony/framework-bundle ###
+/.env.local
+/public/bundles/
+/public/uploads/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+/.docker/.env.nginx.local
